@@ -1,0 +1,12 @@
+.buttons {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', Times, sans-serif;
+}
+
+.click-me{
+    background-color: black;
+    color: white;
+}
+.no-click-me {
+    background-color: yellow;
+}
